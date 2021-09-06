@@ -1,0 +1,80 @@
+body{
+    background-image: url(resume.jpeg);
+    
+}
+h2{
+    color:rgb(0, 255, 213);
+    background-size: auto;
+    text-shadow: 2px 2px rgb(255, 47, 245);
+    
+}
+table, td, th {  
+    border: 1px solid red;
+    text-align: left;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  a:link {
+    color: red;
+  }
+  
+  
+  a:visited {
+    color: green;
+  }
+  
+  
+  a:hover {
+    color:black;
+  }
+  
+  
+  a:active {
+    color: blue;
+  }img{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+
+    display: block;
+    -moz-box-sizing: content-box;
+    box-sizing: border-box;
+    
+    width: 180px; 
+    height: 236px; 
+    margin-top: 60px;
+    position: absolute;
+    
+    
+  }
+   .b{
+    
+        background-color: #f1f1f1;
+        padding: 20px;
+        text-align: center;
+        color: black;
+      
+   }
+   img:hover {
+    border: 1px solid #777;
+  }
+  tr:hover {background-color: yellow;}
+  th{
+      background-color: coral;
+  }h1{ text-shadow: 2px 2px #FF0000;
+
+  }
+ h1:hover{
+   color: pink;
+ }
+ h2:hover{
+color:green
+ }.b{
+   background-image: url(resume.jpeg);
+ }
